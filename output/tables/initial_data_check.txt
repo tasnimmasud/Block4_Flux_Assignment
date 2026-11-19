@@ -1,0 +1,244 @@
+
+======================================================================
+SITE FILE: AMF_US-UiC_FLUXNET_FLUXMET_HH_2008-2024_v1.3_r1.csv
+======================================================================
+Number of columns: 226
+
+Timestamp/date columns:
+TIMESTAMP_START
+TIMESTAMP_END
+
+Required variable availability:
+TA_F_MDS: FOUND
+SW_IN_F_MDS: FOUND
+VPD_F_MDS: FOUND
+P_F: FOUND
+NEE_CUT_REF: FOUND
+NEE_CUT_REF_QC: FOUND
+GPP_NT_CUT_REF: FOUND
+RECO_NT_CUT_REF: FOUND
+H_F_MDS: FOUND
+LE_F_MDS: FOUND
+
+First two data rows (selected columns):
+  TIMESTAMP_START: 200801010000
+  TIMESTAMP_END: 200801010030
+  TA_F_MDS: -9999
+  SW_IN_F_MDS: -9999
+  VPD_F_MDS: -9999
+  P_F: 0.034
+  NEE_CUT_REF: -9999
+  NEE_CUT_REF_QC: -9999
+  GPP_NT_CUT_REF: -9999
+  RECO_NT_CUT_REF: -9999
+  H_F_MDS: -9999
+  LE_F_MDS: -9999
+
+  TIMESTAMP_START: 200801010030
+  TIMESTAMP_END: 200801010100
+  TA_F_MDS: -9999
+  SW_IN_F_MDS: -9999
+  VPD_F_MDS: -9999
+  P_F: 0.034
+  NEE_CUT_REF: -9999
+  NEE_CUT_REF_QC: -9999
+  GPP_NT_CUT_REF: -9999
+  RECO_NT_CUT_REF: -9999
+  H_F_MDS: -9999
+  LE_F_MDS: -9999
+
+
+======================================================================
+SITE FILE: CNF_CN-YaS_FLUXNET_FLUXMET_HH_2011-2020_v1.3_r1.csv
+======================================================================
+Number of columns: 224
+
+Timestamp/date columns:
+TIMESTAMP_START
+TIMESTAMP_END
+
+Required variable availability:
+TA_F_MDS: FOUND
+SW_IN_F_MDS: FOUND
+VPD_F_MDS: FOUND
+P_F: FOUND
+NEE_CUT_REF: FOUND
+NEE_CUT_REF_QC: FOUND
+GPP_NT_CUT_REF: FOUND
+RECO_NT_CUT_REF: FOUND
+H_F_MDS: FOUND
+LE_F_MDS: FOUND
+
+First two data rows (selected columns):
+  TIMESTAMP_START: 201101010000
+  TIMESTAMP_END: 201101010030
+  TA_F_MDS: -9999
+  SW_IN_F_MDS: -9999
+  VPD_F_MDS: -9999
+  P_F: 0.0
+  NEE_CUT_REF: -9999
+  NEE_CUT_REF_QC: -9999
+  GPP_NT_CUT_REF: -9999
+  RECO_NT_CUT_REF: -9999
+  H_F_MDS: -9999
+  LE_F_MDS: -9999
+
+  TIMESTAMP_START: 201101010030
+  TIMESTAMP_END: 201101010100
+  TA_F_MDS: -9999
+  SW_IN_F_MDS: -9999
+  VPD_F_MDS: -9999
+  P_F: 0.0
+  NEE_CUT_REF: -9999
+  NEE_CUT_REF_QC: -9999
+  GPP_NT_CUT_REF: -9999
+  RECO_NT_CUT_REF: -9999
+  H_F_MDS: -9999
+  LE_F_MDS: -9999
+
+
+======================================================================
+SITE FILE: EUF_CZ-Stn_FLUXNET_FLUXMET_HH_2010-2024_v1.3_r1.csv
+======================================================================
+Number of columns: 241
+
+Timestamp/date columns:
+TIMESTAMP_START
+TIMESTAMP_END
+
+Required variable availability:
+TA_F_MDS: FOUND
+SW_IN_F_MDS: FOUND
+VPD_F_MDS: FOUND
+P_F: FOUND
+NEE_CUT_REF: FOUND
+NEE_CUT_REF_QC: FOUND
+GPP_NT_CUT_REF: FOUND
+RECO_NT_CUT_REF: FOUND
+H_F_MDS: FOUND
+LE_F_MDS: FOUND
+
+First two data rows (selected columns):
+  TIMESTAMP_START: 201001010000
+  TIMESTAMP_END: 201001010030
+  TA_F_MDS: 4.584
+  SW_IN_F_MDS: 0.0
+  VPD_F_MDS: 0.622
+  P_F: 0.267
+  NEE_CUT_REF: 0.944017
+  NEE_CUT_REF_QC: 2
+  GPP_NT_CUT_REF: 1.46213
+  RECO_NT_CUT_REF: 2.38594
+  H_F_MDS: -49.4634
+  LE_F_MDS: -3.40356
+
+  TIMESTAMP_START: 201001010030
+  TIMESTAMP_END: 201001010100
+  TA_F_MDS: 4.457
+  SW_IN_F_MDS: 0.0
+  VPD_F_MDS: 0.512
+  P_F: 0.0
+  NEE_CUT_REF: 0.944017
+  NEE_CUT_REF_QC: 2
+  GPP_NT_CUT_REF: 1.44821
+  RECO_NT_CUT_REF: 2.37161
+  H_F_MDS: -55.0494
+  LE_F_MDS: -2.97057
+
+
+======================================================================
+SITE FILE: ICOS_IT-TrF_FLUXNET_FLUXMET_HH_2012-2025_v1.3_r1.csv
+======================================================================
+Number of columns: 231
+
+Timestamp/date columns:
+TIMESTAMP_START
+TIMESTAMP_END
+
+Required variable availability:
+TA_F_MDS: FOUND
+SW_IN_F_MDS: FOUND
+VPD_F_MDS: FOUND
+P_F: FOUND
+NEE_CUT_REF: FOUND
+NEE_CUT_REF_QC: FOUND
+GPP_NT_CUT_REF: FOUND
+RECO_NT_CUT_REF: FOUND
+H_F_MDS: FOUND
+LE_F_MDS: FOUND
+
+First two data rows (selected columns):
+  TIMESTAMP_START: 201201010000
+  TIMESTAMP_END: 201201010030
+  TA_F_MDS: -9999
+  SW_IN_F_MDS: -9999
+  VPD_F_MDS: -9999
+  P_F: 0.032
+  NEE_CUT_REF: -9999
+  NEE_CUT_REF_QC: -9999
+  GPP_NT_CUT_REF: -9999
+  RECO_NT_CUT_REF: -9999
+  H_F_MDS: -9999
+  LE_F_MDS: -9999
+
+  TIMESTAMP_START: 201201010030
+  TIMESTAMP_END: 201201010100
+  TA_F_MDS: -9999
+  SW_IN_F_MDS: -9999
+  VPD_F_MDS: -9999
+  P_F: 0.032
+  NEE_CUT_REF: -9999
+  NEE_CUT_REF_QC: -9999
+  GPP_NT_CUT_REF: -9999
+  RECO_NT_CUT_REF: -9999
+  H_F_MDS: -9999
+  LE_F_MDS: -9999
+
+
+======================================================================
+SITE FILE: TERN_NZ-ADw_FLUXNET_FLUXMET_HH_2015-2022_v1.3_r1.csv
+======================================================================
+Number of columns: 222
+
+Timestamp/date columns:
+TIMESTAMP_START
+TIMESTAMP_END
+
+Required variable availability:
+TA_F_MDS: FOUND
+SW_IN_F_MDS: FOUND
+VPD_F_MDS: FOUND
+P_F: FOUND
+NEE_CUT_REF: FOUND
+NEE_CUT_REF_QC: FOUND
+GPP_NT_CUT_REF: FOUND
+RECO_NT_CUT_REF: FOUND
+H_F_MDS: FOUND
+LE_F_MDS: FOUND
+
+First two data rows (selected columns):
+  TIMESTAMP_START: 201501010000
+  TIMESTAMP_END: 201501010030
+  TA_F_MDS: -9999
+  SW_IN_F_MDS: -9999
+  VPD_F_MDS: -9999
+  P_F: 0.033
+  NEE_CUT_REF: -9999
+  NEE_CUT_REF_QC: -9999
+  GPP_NT_CUT_REF: -9999
+  RECO_NT_CUT_REF: -9999
+  H_F_MDS: -9999
+  LE_F_MDS: -9999
+
+  TIMESTAMP_START: 201501010030
+  TIMESTAMP_END: 201501010100
+  TA_F_MDS: -9999
+  SW_IN_F_MDS: -9999
+  VPD_F_MDS: -9999
+  P_F: 0.0
+  NEE_CUT_REF: -9999
+  NEE_CUT_REF_QC: -9999
+  GPP_NT_CUT_REF: -9999
+  RECO_NT_CUT_REF: -9999
+  H_F_MDS: -9999
+  LE_F_MDS: -9999
