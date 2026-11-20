@@ -27,7 +27,7 @@ The five original ZIP archives are stored locally in `data/raw/`. The data direc
 
 ```text
 Block 04/
-├── data/
+├── data/                  # Local data directory (not uploaded to GitHub)
 │   ├── raw/
 │   ├── snapshots/
 │   └── processed/
